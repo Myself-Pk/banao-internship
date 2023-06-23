@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/banao-internship/static/css/main.8ff68687.css",
-    "main.js": "/banao-internship/static/js/main.37b1547e.js",
+    "main.css": "/banao-internship/static/css/main.d880f295.css",
+    "main.js": "/banao-internship/static/js/main.27f93a36.js",
     "static/js/496.154e4eb5.chunk.js": "/banao-internship/static/js/496.154e4eb5.chunk.js",
     "static/media/homeBanner.png": "/banao-internship/static/media/homeBanner.4bae427d8d26b14da3d2.png",
     "index.html": "/banao-internship/index.html",
-    "main.8ff68687.css.map": "/banao-internship/static/css/main.8ff68687.css.map",
-    "main.37b1547e.js.map": "/banao-internship/static/js/main.37b1547e.js.map",
+    "main.d880f295.css.map": "/banao-internship/static/css/main.d880f295.css.map",
+    "main.27f93a36.js.map": "/banao-internship/static/js/main.27f93a36.js.map",
     "496.154e4eb5.chunk.js.map": "/banao-internship/static/js/496.154e4eb5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ff68687.css",
-    "static/js/main.37b1547e.js"
+    "static/css/main.d880f295.css",
+    "static/js/main.27f93a36.js"
   ]
 }
